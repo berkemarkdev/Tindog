@@ -1,0 +1,47 @@
+
+.bi-hearts{
+  margin: 0px 50px;
+}
+
+.text-end{
+  margin: 0px 50px;
+}
+
+#header{
+  background-image: linear-gradient(to right, #00bfff, #ff4c68, #ef8172);
+}
+
+#title{
+  background-image: linear-gradient(to right, #00bfff, #ff4c68, #ef8172);
+}
+
+.ad{
+  font-size: 36px;
+  font-weight: bolder;
+  margin-bottom: 60px;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.name{
+  font-size: 18px;
+}
+
+.logo{
+  height: 40px;
+  margin: 30px;
+}
+
+#footer{
+  background-image: linear-gradient(to right, #00bfff, #ff4c68, #ef8172);
+}
